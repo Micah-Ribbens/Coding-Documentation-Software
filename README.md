@@ -1,4 +1,4 @@
-1. hit the big green button and click download as zip
+1. hit the big green button that says 'Code' in the type right corner and click download as zip
 2. Once downloaded open the file and click unzip file
 3. Open up 'Command Prompt' (search it in the window)
 4. Once opened type in 'pip install pygame'
